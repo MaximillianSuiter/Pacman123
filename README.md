@@ -4,10 +4,11 @@
 
 # About
 
-## This is one of the first projects I accomplished during the MIT Bootcamp I took part in. The program passes through an array of pacman images, while moving the current object (one of the 4 images) forward and bacground within a boundary. 
+## This is one of the first projects I accomplished during the MIT Bootcamp I took part in. The program creates an additional pacman at the click of a button, and moves the createx pacmen randomly within the bounds of the window upon another click. 
+
 
 # Operating the Program
-## Simply copy the link https://maximilliansuiter.github.io/Pacman123/ into the browser, and the program will operate.
+## Download the files present, and drag and drop the index.html file into the search bar of the browser. Click "Add Pacman" to add a pacman, click "Start Game" to set created pacmen in motion 
 
 # Roadmap For Future Improvements
 ## I'd like to, in classic PacMan fashion, illustrate the pacman being chased by a ghost.
