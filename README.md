@@ -1,6 +1,6 @@
 # Pacman123
 ## Pacman Exercise 
-<img src="images.PacMan1.png" width="300">
+<img src="Images.PacMan1.png" width="300">
 
 # About
 
